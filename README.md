@@ -1,7 +1,7 @@
 - # HEY THERE!
 - 👋 I’m @thewoe
-- 👀 These projects relate to programming (Java, Python, C++) and web development (React.js, Node.js, PHP, HTML, CSS, JS, jQuery, SQL)
-- 🌱 My current priorities include React.js/Node.js and Java, although other projects may evolve later
+- 👀 These projects relate to programming (Java, Python, C++, Swift) and web development (React.js, Node.js, PHP, HTML, CSS, JS, jQuery, SQL)
+- 🌱 My current priorities include React.js/Node.js/Express/MySQL, Java and Swift although other projects may evolve later
 - 💞️ I generally publish my personal work, although some future projects may involve collaborations with others
 - 📫 To reach me, please email: k2012185@kingston.ac.uk
 
