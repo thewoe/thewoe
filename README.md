@@ -1,5 +1,5 @@
 - # HEY THERE!
-- 👋 I’m thewoe, a recent BSc (Hons) Computer Science graduate
+- 👋 I’m Tug O'Flaherty, a recent BSc (Hons) Computer Science graduate
 - 👀 These projects relate to programming (Java, Python, C++), mobile app development (React Native, Kotlin, Swift) and web development (React.js, Node.js, Express, PHP, HTML, CSS, SCSS, JS, jQuery, SQL)
 - 🌱 My current priorities include React.js/SCSS/Node.js/Express/MySQL although other projects may evolve later
 - 💞️ I generally publish my personal work, although some future projects may involve collaborations with others
