@@ -4,7 +4,7 @@
 - 👀 These projects relate to programming (Java, Python, C++), mobile app development (React Native, Kotlin, Swift) and web development (React.js, Node.js, Express, PHP, HTML, CSS, SCSS, JS, jQuery, SQL)
 - 🌱 My current priorities include React.js/SCSS/Node.js/Express/MySQL although other projects may evolve later
 - 💞️ I generally publish my personal work, although some future projects may involve collaborations with others
-- 📫 To reach me, please visit my website: [www.tugoflaherty.com](https://www.tugoflaherty.com) (*Currently under development*), or email: [contact@tugoflaherty.com](mailto:contact@tugoflaherty.com)
+- 📫 To reach me, please visit my website: [www.tugoflaherty.com](https://www.tugoflaherty.com) (*Currently under development*), or email: [contact@tugoflaherty.com](mailto:contact@tugoflaherty.com) (*Currently not working, as still in the process of migrating to different hosting, so please reach me at my University email: [t.f.oflaherty@se24.qmul.ac.uk](maulto:t.f.oflaherty@se24.qmul.ac.uk)*)
 
 ## About This Portfolio:
 - This portfolio represents a sample of a wide range of projects I have completed using varying programming languages and technologies.
