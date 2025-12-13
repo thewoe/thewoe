@@ -9,7 +9,7 @@
 ## About This Portfolio:
 - This portfolio represents a sample of a wide range of projects I have completed using varying programming languages and technologies.
 - It is intended as a demonstration of the code behind some of the applications I have developed.
-- A showcase of the 'live' versions of these applications (i.e. the interactive, working application itself) will be available in the future, via my website *I promise!*.
+- A showcase of the 'live' versions of these applications (i.e. the interactive, working application itself) will be available in the future, via my website *I promise!*
 - Note: This is not an exhaustive list of all projects I have developed, as for various reasons, some projects are unable to have their code made publicly available.
 
 Last Update: 13/12/2025
