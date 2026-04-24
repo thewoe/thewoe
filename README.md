@@ -4,7 +4,7 @@
 - 👀 These projects primarily relate to audio programming (JUCE/C++, Python, Max 8/Jitter + Wekinator + OSC + Arduino, MATLAB, Java), web audio development (Web Audio API, Web MIDI API, HTML Audio, Socket.IO, React.js, Node.js, Express, PHP, HTML, CSS, SCSS, JS, jQuery, SQL, p5.js, d3.js), and mobile app development (React Native, Kotlin, Swift).
 - 🌱 My current priorities include all things music/sound/audio, although past projects were mainly computer science-focused :)
 - 💞️ I generally publish my personal work here, although some of my collaborative projects may be found within the 'Organizations' tab on my profile.
-- 📫 To reach me, please visit my website: [www.tugoflaherty.com](https://www.tugoflaherty.com) or email: [contact@tugoflaherty.com](mailto:contact@tugoflaherty.com).
+- 📫 To reach me, please visit my website: [www.tugoflaherty.com](https://www.tugoflaherty.com), email: [contact@tugoflaherty.com](mailto:contact@tugoflaherty.com) or find me @thewoe on most social media platforms.
 
 ## About This Portfolio:
 - This portfolio represents a sample of a wide range of projects I have completed using a variety of different programming languages and technologies.
